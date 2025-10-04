@@ -23,8 +23,9 @@ console.log(name.toLowerCase());  // toLowerCase => convert loweer case  // orig
 
 console.log(name.charAt(5))  // charAt => match string position 5 pr konsa character he 
 console.log(name.indexOf('t'));  //indexof => match string t kon se position pr he
+console.log(name.includes('sharma'));  //includes => match string result a boolean valye true and false
 
-const newName = name.substring(0 , 5);  // substring => string ko todta he 
+const newName = name.substring(0 , 5);  // substring => string ko tod kr two part me devide krta he value-1
 console.log(newName)
 
 const newName1 = name.slice(-10 , 5);  // slice => string ko tod kr reverse se bhi print krba skta he
@@ -42,6 +43,14 @@ console.log(url.includes('amit')) // incluedes => method use to ask a ques in ur
 console.log(name.split(' ')); // splite => method use to string convert in array to depend your seprate ex ' space'
 
 // and etc methods for you can got to mdn and search string method
+let name8 ="a,d,gv,r,y"
+console.log(name8.split("-"))  //string convert in array with seperator
+
+let arr = ['a' , 'c' , 'd']
+let neweArr = arr.join('-')
+console.log(neweArr)
+console.log(typeof(neweArr))  //array convert in string with seperator
+
 
 
  

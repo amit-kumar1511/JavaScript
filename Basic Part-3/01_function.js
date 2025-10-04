@@ -1,6 +1,6 @@
 // FUNCTION
 
-const { Password } = require("@mui/icons-material")
+
 
 function sayHello () {    //create function(function -keyword)(sayHello -function name)({}-fun scope)
     console.log("a")
@@ -34,7 +34,7 @@ function loginUserMsg (userNmae) {
         console.log("please enter username")
             return
         
-    }
+        }
     return `${userNmae} logrd in`
 }
 //console.log(loginUserMsg("amit"))
@@ -68,5 +68,8 @@ function handleArray (getArray){
     return getArray[1]   // [1] return araay index
 }
 console.log(handleArray(newArray))
+
+
+
 
 

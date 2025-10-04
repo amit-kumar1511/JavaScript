@@ -33,6 +33,10 @@ jsUser.email = "amit1511@gmail.com"
 jsUser.email = "amit15162356211@gmail.com"  //key change nhi hoga kyoki object freeze he
 //console.log(jsUser);
 
+//delete object key
+let person = { name: "Alice", age: 25 };
+delete person.age;  
+console.log(person); // { name: "Alice" }
 
 
 jsUser.greeting1 = function(){

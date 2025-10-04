@@ -1,0 +1,111 @@
+🔹 React Basics
+
+What is React? Why is it used?
+
+What are the differences between React and Angular/Vue?
+
+What are the main features of React?
+
+What is JSX, and why do we use it?
+
+What are components in React? Explain functional vs class components.
+
+What is the virtual DOM, and how is it different from the real DOM?
+
+What are props in React?
+
+What is state in React? How is it different from props?
+
+🔹 Hooks (very common in interviews!)
+
+What are React hooks, and why were they introduced?
+
+Explain useState, useEffect, and useRef with examples.
+
+Difference between useMemo and useCallback.
+
+When would you use useReducer instead of useState?
+
+How does useContext work?
+
+How do custom hooks work? Have you written one?
+
+🔹 Component Lifecycle
+
+Explain the React component lifecycle methods.
+
+Difference between componentDidMount, componentDidUpdate, and componentWillUnmount.
+
+How are lifecycle methods replaced in functional components with hooks?
+
+🔹 Performance & Optimization
+
+What causes re-renders in React?
+
+How do you prevent unnecessary re-renders? (React.memo, useMemo, useCallback)
+
+What is reconciliation in React?
+
+What is code-splitting, and how do you implement it?
+
+Difference between controlled and uncontrolled components.
+
+🔹 Advanced React
+
+What is React Fiber?
+
+What is context API, and how is it different from Redux?
+
+When would you use Redux over Context?
+
+Explain React’s key prop. Why is it important?
+
+How does server-side rendering (SSR) work in React (e.g., Next.js)?
+
+What is hydration in React?
+
+What is React Concurrent Mode (or concurrent features like useTransition)?
+
+🔹 Practical/Scenario-based Questions
+
+How do you handle forms in React?
+
+How do you fetch data in React? Where do you make API calls?
+
+How would you debounce or throttle an input field in React?
+
+How do you implement authentication in React?
+
+How do you implement infinite scrolling or pagination?
+
+How do you share state between components?
+
+How would you build a modal/toast system in React?
+
+🔹 Testing in React
+
+How do you test React components?
+
+What are Jest and React Testing Library?
+
+Difference between unit tests, integration tests, and end-to-end tests.
+
+🔹 Tricky/Common Interview Questions
+
+What is the difference between shadow DOM and virtual DOM?
+
+Why do we need keys in lists? What happens if we don’t use them?
+
+Why are React hooks rules important (only call at top level, not inside loops)?
+
+Difference between useEffect(() => {}, []) and useEffect(() => {}).
+
+What is prop drilling, and how do you avoid it?
+
+How do you handle error boundaries in React?
+
+🔹 MNC vs Startup focus
+
+MNCs → More theory-heavy, lifecycle, performance optimizations, design patterns (Redux, Context, SSR, large-scale architecture).
+
+Startups → More practical, hands-on coding challenges (e.g., build a todo app, infinite scroll, search with debounce, custom hooks).

@@ -25,3 +25,9 @@ console.log(a,b,c,d)  // print
 console.log(typeof c)  
 
 console.log(typeof null) //typeof null is a object 
+
+//symbol  => in js symbole use to same id but there are difference 
+
+const id = Symbol("123")
+const id2 = Symbol("123")
+console.log(id == id2);  // o/p => false

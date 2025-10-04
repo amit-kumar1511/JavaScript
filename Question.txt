@@ -1,0 +1,150 @@
+PHASE 1 : -
+
+1. BASIC STNTAX & STRUCTURE 
+    * Comments
+    *variables (var , let , const)
+    *dataTypes(string , number , boolean null undefine object array function etc)
+
+2. OPERATOR 
+    *artmetic 
+    *comperision
+    *logical
+    *assignment
+    *ternery
+
+3. control structure
+    *if else
+    *switch
+
+4. loop
+    *for 
+    *while
+    *do while
+    *for of
+    *for in
+    *for each
+
+5. function 
+    *function declearation
+    *function expression
+    *arrow function
+    *anonymous function
+    four way to write function
+    default parameter
+    return statement
+    parameter and arguments
+
+6. array
+    creating & accessing arrays
+    utility function
+        array.isArray()
+        array.to()
+        Array.form()
+        ...
+    
+    *Array method 
+        push()
+        pop()
+        shift()
+        unshift()
+        slice()
+        splice()
+        join()
+        forEach()
+        map()
+        filter()
+        reduce()
+        .....
+
+7. objects
+    *creating objects
+    *accessing properties and methods
+    *nasted object
+    *utility function:
+        object.key()
+        object.values()
+        object.entries()
+        object.assign()
+        object. freeze()
+        object.seal()
+
+8.  basic error handling
+    *try ,catch ,finally
+    *custom error
+
+    phase 2
+
+math object
+    *math.round()
+    *math.floor()
+    *math.ceil()
+    *math.random
+    *math.max
+    *math.min
+    *math.pow
+    *math.sqrt
+    *math.abs
+
+date object
+    *new.date()
+    *date,now()
+    getfullyear
+    getmonth
+    getdate
+    getday
+    setfullyear
+    sethours
+
+    date formating and time diffrencec
+
+json
+    *json stringyfy() = convert 
+    json.parse)() = convert string
+
+global function
+    parseint
+    parsefloat
+    isnan()
+    isfinite
+    encodeurlcomponent
+    decodeurlcomponent
+
+
+phase 3
+
+power your basic understanding
+    *let ,var const diffrence
+    pass by value & pass by refrencec
+    truthy falsy
+    diffrent type od export import
+
+modern js
+
+    ecma script
+    symbols
+    bigint
+    seats
+    maps
+    interators and generators
+    proxy & reflect
+    other es6 features (spread cleaning module etc)
+    weakmap , weakset
+    dynamic imports
+    top level await - helpful in es module
+
+
+advance js
+    *function hoisting
+    *closure
+    type equality & coercion
+    short circuit evaluation
+    callback function 
+    constructor function
+    object and rototypes
+    classes and inheritance
+    functional programming
+    oops
+    
+
+
+

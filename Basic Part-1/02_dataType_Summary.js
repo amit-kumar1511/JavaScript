@@ -17,11 +17,7 @@ x = "hello"; // x is now a string
 x = true; // x is now a boolean
 */
 
-//symbol  => in js symbole use to same id but there are difference 
 
-const id = Symbol("123")
-const id2 = Symbol("123")
-console.log(id == id2);  // o/p => false
 
 // Array
 

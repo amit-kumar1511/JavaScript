@@ -6,9 +6,14 @@ let score2 = null;
 console.log(typeof score)  // check variable data type of 
 
 let valueInNumber = Number(score)   // change variable data-type in a number
-console.log(typeof valueInNumber)   //check changeing variable data type 
-console.log(valueInNumber)      // check variablke number or not a number
+console.log(typeof valueInNumber)   //check changeing variable number
+console.log(valueInNumber)      // print NaN
 
+
+const a = "amit"
+const b = Number(a)
+console.log(typeof(b)) //change to number
+console.log(b)// o/p - NaN
 // conversion 
 // "33" => 33
 // "33abc" => NaN

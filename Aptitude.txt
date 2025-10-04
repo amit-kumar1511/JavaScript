@@ -1,0 +1,41 @@
+Aptitude Roadmap
+
+1. Quantitative Aptitude
+
+=> Number Systems
+
+    Divisibility Rules: 1-2 questions
+    Remainders: 1 question
+    LCM & HCF: 1 question
+
+=> Arithmetic
+
+    Percentage: 1 question
+    Profit and Loss: 1-2 questions
+    Ratio and Proportion: 1 question
+    Average: 1 question
+    Time, Speed, and Distance: 2 questions
+    Time and Work: 2 questions
+    Simple and Compound Interest: 1 question
+
+=> Geometry and Mensuration
+
+    Mensuration: 1-2 questions
+    Basic Geometry: 1 question
+
+2. Verbal Aptitude
+
+    Reading Comprehension: 2-3 questions
+    Vocabulary (Synonyms, Antonyms): 2 questions
+    Grammar (Tenses, Parts of Speech): 2-3 questions
+
+3. Logical Aptitude 
+
+    Syllogism: 1-2 questions
+    Series: 1-2 questions
+    Blood Relations: 1 question
+    Puzzles and Seating Arrangements: 3-4 questions
+    Coding-Decoding: 1-2 questions
+
+
+

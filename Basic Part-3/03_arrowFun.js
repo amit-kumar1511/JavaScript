@@ -61,3 +61,13 @@ jo problem hoti h use hatane ke lye iife ka use kye*/
 
 
 
+/*diffrencec between normal function and arrow function
+
+✅ Quick Comparison Table
+Feature	            Normal Function	        Arrow Function
+Syntax	            Traditional, longer	    Short, clean, one-liner
+this	            Depends on call	        Lexical (outer scope)
+arguments	        Haan	                Nahi (use ...args)
+Can be constructor	Haan	                Nahi
+Prototype	        Haan	                Nahi
+Use Case	        Flexible, dynamic this	/Callbacks, inner functions*/
